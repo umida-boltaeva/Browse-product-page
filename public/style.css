@@ -1,6 +1,6 @@
 * {
-    padding: 0;
-    margin: 0;
+    /* padding: 0;
+    margin: 0; */
     box-sizing: border-box;
   }
   html {
@@ -23,6 +23,18 @@
     color: #fff;
     font-family: "McLaren", cursive;
     font-weight: 200;
+  }
+
+  .search-area {
+    margin-top: 150px;
+    text-align: center;
+    
+    
+  }
+
+  .search-button {
+    margin-left: 20px;
+    padding: 15px 20px;
   }
 
   footer {
